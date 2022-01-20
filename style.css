@@ -1,0 +1,100 @@
+.container {
+    max-width: 960px;
+}
+.card-body {
+    padding: 0 16px 16px;
+}
+
+.cbox-big {
+    font-size: 20px;
+}
+.kota {
+    font-size: 14px;
+    font-weight: 400;
+    color: grey;
+}
+.nama-produk {
+    font-weight: 600;
+    font-size: 16px;
+}
+.discount {
+    color: white;
+    background-color: #EF144A;
+    padding: 4px 12px;
+    font-size: 12px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+.mr-3 {
+    margin-right: 12px;
+}
+.ml-1 {
+    margin-left: 4px;
+}
+.ml-2 {
+    margin-left: 8px;
+}
+.ml-3 {
+    margin-left: 12px;
+}
+.mt-10 {
+    margin-top: 40px;
+}
+.mb-10 {
+    margin-bottom: 40px;
+}
+.mt-3 {
+    margin-top: 12px;
+}
+.images {
+    max-height: 70px;
+    max-width: 70px;
+}
+.cbox-list-produk {
+    margin-top: 18px;
+    margin-right: 12px;
+}
+.qty-min {
+    border: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+.qty-plus {
+    border: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+.align-right {
+    text-align: right;
+}
+.align-kota {
+    margin-left: 36px;
+}
+.new-line {
+    display: block;
+}
+.w-33 {
+    width: 33%;
+}
+.v-top {
+    vertical-align: top;
+}
+.text-right {
+    text-align: right;
+}
+.img-border {
+    border-radius: 12px;
+}
+.x1 {
+    float: right;
+}
+.sticky {
+    position: sticky;
+        top: 0;
+		background: cornflowerblue;
+        padding: 1em;
+}
+.qty-width{
+    max-width: 40px;
+    text-align: center;
+}
